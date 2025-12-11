@@ -33,7 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="linkedin logo"  />
   </a>
   <img width="12" />
-  <a href="mailto:rahma-khaled@univ-ouargla.dz">
+  <a href="mailto:rahma.khaled@univ-ouargla.dz">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" alt="gmail logo"  />
   </a>
 </div>

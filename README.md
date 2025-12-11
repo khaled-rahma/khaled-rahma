@@ -29,8 +29,13 @@
 ###
 
 <div align="center">
-  <img src="www.linkedin.com/in/khaled-rahma-b8741a396" height="25" alt="linkedin logo"  />
-  <img src="rahma-khaled@univ-ouargla.dz" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/khaled-rahma-b8741a396" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="linkedin logo"  />
+  </a>
+  <img width="12" />
+  <a href="mailto:rahma-khaled@univ-ouargla.dz">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
